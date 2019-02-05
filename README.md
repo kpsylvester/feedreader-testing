@@ -4,7 +4,7 @@ This is a web-based application that reads RSS feeds. I used Jasmine to run test
 
 # How to run the application
 
-- local download - I recommend downloading the the repository and opening up the index.html to run the tests
+- local download - you can clone or downloading this repository and opening up the index.html file, enjoy ^_^
 - here is the url to the website https://kpsylvester.github.io/feedreader-testing/
 
 ## The tests that were used for the project
